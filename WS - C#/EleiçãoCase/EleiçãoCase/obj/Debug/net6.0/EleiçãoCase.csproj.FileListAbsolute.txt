@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\bin\Debug\net6.0\EleiçãoCase.exe
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\bin\Debug\net6.0\EleiçãoCase.deps.json
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\bin\Debug\net6.0\EleiçãoCase.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\bin\Debug\net6.0\EleiçãoCase.dll
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\bin\Debug\net6.0\EleiçãoCase.pdb
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.dll
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\refint\EleiçãoCase.dll
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.pdb
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\EleiçãoCase.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\EleiçãoCase\EleiçãoCase\obj\Debug\net6.0\ref\EleiçãoCase.dll

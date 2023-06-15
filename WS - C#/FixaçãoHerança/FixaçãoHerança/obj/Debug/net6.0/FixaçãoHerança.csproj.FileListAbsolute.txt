@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\bin\Debug\net6.0\FixaçãoHerança.exe
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\bin\Debug\net6.0\FixaçãoHerança.deps.json
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\bin\Debug\net6.0\FixaçãoHerança.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\bin\Debug\net6.0\FixaçãoHerança.dll
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\bin\Debug\net6.0\FixaçãoHerança.pdb
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.dll
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\refint\FixaçãoHerança.dll
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.pdb
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\FixaçãoHerança.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoHerança\FixaçãoHerança\obj\Debug\net6.0\ref\FixaçãoHerança.dll

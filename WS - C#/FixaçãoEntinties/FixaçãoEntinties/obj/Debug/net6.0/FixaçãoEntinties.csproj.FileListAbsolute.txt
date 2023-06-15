@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\bin\Debug\net6.0\FixaçãoEntinties.exe
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\bin\Debug\net6.0\FixaçãoEntinties.deps.json
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\bin\Debug\net6.0\FixaçãoEntinties.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\bin\Debug\net6.0\FixaçãoEntinties.dll
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\bin\Debug\net6.0\FixaçãoEntinties.pdb
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.dll
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\refint\FixaçãoEntinties.dll
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.pdb
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\FixaçãoEntinties.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\FixaçãoEntinties\FixaçãoEntinties\obj\Debug\net6.0\ref\FixaçãoEntinties.dll

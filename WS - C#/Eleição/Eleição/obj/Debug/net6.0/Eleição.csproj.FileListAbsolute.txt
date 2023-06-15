@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\bin\Debug\net6.0\Eleição.exe
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\bin\Debug\net6.0\Eleição.deps.json
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\bin\Debug\net6.0\Eleição.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\bin\Debug\net6.0\Eleição.dll
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\bin\Debug\net6.0\Eleição.pdb
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.dll
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\refint\Eleição.dll
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.pdb
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\Eleição.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\Eleição\Eleição\obj\Debug\net6.0\ref\Eleição.dll

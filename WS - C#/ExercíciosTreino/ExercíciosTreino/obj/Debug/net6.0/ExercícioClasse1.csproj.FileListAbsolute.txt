@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\bin\Debug\net6.0\ExercícioClasse1.exe
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\bin\Debug\net6.0\ExercícioClasse1.deps.json
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\bin\Debug\net6.0\ExercícioClasse1.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\bin\Debug\net6.0\ExercícioClasse1.dll
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\bin\Debug\net6.0\ExercícioClasse1.pdb
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.dll
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\refint\ExercícioClasse1.dll
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.pdb
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ExercícioClasse1.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\ExercíciosTreino\ExercíciosTreino\obj\Debug\net6.0\ref\ExercícioClasse1.dll

@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\bin\Debug\net6.0\Sistema de Banco.exe
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\bin\Debug\net6.0\Sistema de Banco.deps.json
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\bin\Debug\net6.0\Sistema de Banco.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\bin\Debug\net6.0\Sistema de Banco.dll
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\bin\Debug\net6.0\Sistema de Banco.pdb
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.dll
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\refint\Sistema de Banco.dll
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.pdb
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\Sistema de Banco.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\Sistema de Banco\Sistema de Banco\obj\Debug\net6.0\ref\Sistema de Banco.dll

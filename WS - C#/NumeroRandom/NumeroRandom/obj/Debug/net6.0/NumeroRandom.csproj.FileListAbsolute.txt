@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.exe
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.deps.json
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.dll
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.pdb
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.dll
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\refint\NumeroRandom.dll
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.pdb
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\ref\NumeroRandom.dll

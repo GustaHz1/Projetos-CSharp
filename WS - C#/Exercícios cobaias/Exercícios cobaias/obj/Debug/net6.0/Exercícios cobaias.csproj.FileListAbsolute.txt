@@ -1,0 +1,15 @@
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.csproj.AssemblyReference.cache
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.AssemblyInfoInputs.cache
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.AssemblyInfo.cs
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\bin\Debug\net6.0\Exercícios cobaias.exe
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\bin\Debug\net6.0\Exercícios cobaias.deps.json
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\bin\Debug\net6.0\Exercícios cobaias.runtimeconfig.json
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\bin\Debug\net6.0\Exercícios cobaias.dll
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\bin\Debug\net6.0\Exercícios cobaias.pdb
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.dll
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\refint\Exercícios cobaias.dll
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.pdb
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\Exercícios cobaias.genruntimeconfig.cache
+C:\Projetos Visual Studios\WS - C#\Exercícios cobaias\Exercícios cobaias\obj\Debug\net6.0\ref\Exercícios cobaias.dll
